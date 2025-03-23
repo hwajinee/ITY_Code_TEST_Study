@@ -6,6 +6,9 @@
 - 참고 사이트 :
 - 언어 :
 
+# 스터디 멤버
+
+
 # 스터디 규칙
 📌 진행 방식
 
@@ -13,21 +16,26 @@
 
 📌 설명 방식
 
-# PR 규칙 및 Commit Message 규칙
-## Pull Request
-- [Programmers-폴더명] 이름
-- [Baekjoon-폴더명] 이름
+📌 참여 방식
+1. 이 저장소를 fork 한다.
+2. 생성된 저장소에 Github ID로 폴더를 생성한다.
+3. 알고리즘 풀이 후 원본 저장소에 PR를 보낸다.
 
-## Coomit Message
-- [Programmers-문제번호] 문제명
-- [Baekjoon-문제번호] 문제명
-  
-# 파일 및 폴더 구조
-## 프로그래머스
-- Programmers/영문이름/폴더명/문제명.java
+# 📁 Repository 폴더 구조
+```
+{Github ID}/주차/{날짜}/{코드.java}
+```
+💡 예시:  
+`HyunJi0913/week_01/_250304/PGS_다트_게임.java`
 
-## 백준
-- Baekjoon/영문이름/폴더명/문제번호_문제명.java
+# Commit Message 규칙
+```
+[Programmers-문제번호] 문제명
+[Baekjoon-문제번호] 문제명
+```
+💡 예시:  
+`[Backjoon-1003] 피보나치 함수`
+
 
 # 📅 일정표
 | 주차 | 폴더명 | 문제1 | 문제2 | 문제3 | 문제4 | 문제5 |
