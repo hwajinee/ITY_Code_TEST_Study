@@ -67,7 +67,7 @@ comment는 자유, 하지만 이번주에 풀었던 문제의 알고리즘 분�
 # 📅 일정표
 | 주차 | 폴더명 | 문제1 (월) | 문제2 (화) | 문제3 (수) | 문제4 (목) | 문제5 (금) |
 |------|--------|-------|-------|-------|-------|-------|
-| 1주차 | array | [BOJ-10811](https://www.acmicpc.net/problem/10811) | [BOJ-1919](https://www.acmicpc.net/problem/1919) |       |       |       |
+| 1주차 | array | [BOJ-10811](https://www.acmicpc.net/problem/10811)  | [BOJ-1919](https://www.acmicpc.net/problem/1919) |       |       |       |
 | 1주차 | string | [BOJ-20920](https://www.acmicpc.net/problem/20920) | [BOJ-1343](https://www.acmicpc.net/problem/1343) |       |       |       |
 | 2주차 | hashmap |       |       |       |       |       |
 | 2주차 | set |       |       |       |       |       |
