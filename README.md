@@ -43,10 +43,11 @@
 
 # 📁 Repository 폴더 구조
 ```
-{Github ID}/주차/{날짜}/{코드.java}
+{Github ID}/주차/{주제}/{코드.java}
 ```
 💡 예시:  
-`HyunJi0913/week_01/250304/PGS_다트_게임.java`
+`HyunJi0913/week_01/배열/PGS_배열기본.java`
+`HyunJi0913/week_01/문자열/PGS_다트게임.java`
 
 # Commit Message 규칙
 ```
