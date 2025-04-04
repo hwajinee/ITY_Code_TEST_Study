@@ -100,4 +100,3 @@ comment는 자유, 하지만 이번주에 풀었던 문제의 알고리즘 분�
 | 12주차 | DynamicProgramming |       |       |       |       |       |
 | 13주차 | DynamicProgramming |       |       |       |       |       |
 | 14주차 | 복습 |       |       |       |       |       |
-| 15주차 | 복습 |       |       |       |       |       |
