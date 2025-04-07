@@ -1,6 +1,6 @@
 package week_01.문자열;
 import java.util.*;
-public class PGS_폴리오미노 {
+public class BOJ_폴리오미노 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String str = sc.nextLine();
