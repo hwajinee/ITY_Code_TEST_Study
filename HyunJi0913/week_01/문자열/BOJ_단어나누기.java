@@ -1,6 +1,6 @@
 package week_01.문자열;
 import java.util.*;
-public class PGS_단어나누기 {
+public class BOJ_단어나누기 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
