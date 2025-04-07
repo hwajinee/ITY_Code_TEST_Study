@@ -2,7 +2,7 @@ package week_01.배열;
 
 import java.util.*;
 //런타임 에러
-public class PGS_N번째큰수 {
+public class BOJ_N번째큰수 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();
