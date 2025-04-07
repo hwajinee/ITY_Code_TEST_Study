@@ -9,7 +9,7 @@ import java.util.Scanner;
     3. 사전 순으로 앞선 문자열 (String.compareTo() : 문자열의 사전)
 
  */
-public class BOJ_20920 {
+public class BOJ_20920_ing {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
