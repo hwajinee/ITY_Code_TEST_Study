@@ -1,6 +1,6 @@
 package week_01.배열;
 import java.util.*;
-public class PGS_방배정 {
+public class BOJ_방배정 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt(); // 학생 수
