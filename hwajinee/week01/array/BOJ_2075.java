@@ -17,7 +17,5 @@ public class BOJ_2075 {
                 pq.poll(); // 가장 작은 수 제거
             }
         }
-
-        System.out.println(pq.peek()); // N번째 큰 수 출력
     }
 }
