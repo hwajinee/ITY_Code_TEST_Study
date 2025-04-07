@@ -1,6 +1,6 @@
 package week_01.배열;
 import java.util.*;
-public class PGS_애너그램만들기 {
+public class BOJ_애너그램만들기 {
     //런타임 에러 발생 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
