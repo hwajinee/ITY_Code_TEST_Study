@@ -1,6 +1,6 @@
 package week_01.배열;
 import java.util.*;
-public class PGS_바구니뒤집기 {
+public class BOJ_바구니뒤집기 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
