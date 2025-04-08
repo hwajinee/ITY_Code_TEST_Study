@@ -14,8 +14,6 @@ package week02.HashMap;
 import java.util.HashSet;
 import java.util.Scanner;
 
-import static java.lang.System.exit;
-
 public class BOJ_11478 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -25,11 +23,10 @@ public class BOJ_11478 {
 
         int length = str.length();
 
-
 //      (i+1) 만큼의 길이를 가진 문자열을 생성할 것.
 //      string 맨앞에서부터 1칸씩 이동한 뒤, 남은 문자열의 길이가 i+1 만큼 남았는지 체크하고,
-        for(int i=0; i<length; i++) { // 부분 문자열의 길이
-            for (int j = 0; j < length; j++) { // 부분 문자열의 시작점 (한 칸씩 이동)
+        for(int i=0; i<length; i++) { // 부분 문자열의 길이 (i+1)
+            for (int j = 0; j < length; j++) { // 부분 문자열 생성할 시작점 (한 칸씩 이동)
                 if (str.substring(j).length() >= i) {
                     // substring(시작 index, 끝 index) <- 시작 index만 작성할 경우, 끝 index는 자동으로 문자열의 맨끝이 된다.
                     set.add(str.substring(j, j + i));
