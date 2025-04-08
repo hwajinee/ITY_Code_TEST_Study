@@ -2,7 +2,7 @@ package week02;
 /*
     문제 : [BOJ-1268] 대칭 차집합
 
-    풀이 방법 :
+    풀이 방법 : HashSet의 addAll(), retainAll() 메서드를 이용하여 합집합, 차집합 만들기
       1. (AuB의 갯수) - (A교B의 갯수) ✅
       2. (A-B의 갯수) + (B-A의 갯수)
 
