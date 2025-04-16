@@ -1,4 +1,4 @@
-package week02.HashMap;
+package week02;
 /*
     📝 문제 : [BOJ-11478] 서로 다른 부분 문자열의 개수
 
