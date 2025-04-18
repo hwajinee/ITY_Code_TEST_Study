@@ -17,6 +17,8 @@ public class BOJ_9012 {
         String[] result = new String[T];
 //        T만큼 반복
         for (int i = 0; i < T; i++) {
+            // YES or NO 담을 변수
+            boolean isValid = true;
             // 문자열 순회
             for (String s : br.readLine().split("")) {
                 // 열린 괄호 처리
@@ -24,12 +26,15 @@ public class BOJ_9012 {
                     stack.push(s);
                 } else { // 닫힌 괄호 처리
                     // 스택 비었으면 NO
-                    if(stack.isEmpty()) { result[i] = "NO"; break; }
+                    if(stack.isEmpty()) { isValid = false; break; }
                     // top이 열린 괄호면 pop()
                     stack.pop();
                 }
-                if(stack.isEmpty()) { result[i] = "YES";}
-                else { result[i] = "NO";}
+            }
+            if(isValid && stack.isEmpty()) {
+                result[i] = "YES";
+            }else {
+                result[i] = "NO";
             }
             // 순회 한번 끝날 때마다 스택 초기화
             stack.clear();
