@@ -1,4 +1,4 @@
-package study2025.문자열;
+package week_01.문자열;
 
 import java.util.*;
 
@@ -11,12 +11,12 @@ public class BOJ_20920 {
 
         Map<String, Integer> map = new HashMap<>();
 
-//        String [] arr = new String[n];
+        String [] arr = new String[n];
 
         for (int i = 0; i < n; i++) {
             String word = sc.nextLine();
             if (word.length() < m) continue;
-//            arr[i] = sc.nextLine();
+            arr[i] = sc.nextLine();
             if (arr[i].length() < m) break;
             for (int j=0; j < i ; j++) {
                 if (arr[i].equals(arr[j])) break;

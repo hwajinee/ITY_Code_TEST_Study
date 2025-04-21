@@ -1,4 +1,4 @@
-package study2025.배열;
+package week_01.배열;
 
 import java.util.Scanner;
 

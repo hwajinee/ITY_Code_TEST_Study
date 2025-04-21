@@ -1,4 +1,4 @@
-package Set;
+package week_02.Set;
 
 import java.util.HashSet;
 import java.util.Scanner;
