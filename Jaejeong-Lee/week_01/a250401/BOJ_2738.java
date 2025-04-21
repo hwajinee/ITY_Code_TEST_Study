@@ -1,4 +1,4 @@
-package study2025;
+package week_01.a250401;
 
 import java.util.Scanner;
 
