@@ -77,8 +77,8 @@ Week00 문제 풀이 / {Github ID}
 | 2주차 | set | [BOJ-1764]듣보잡 | [BOJ-3052] 나머지 | [BOJ-2210] 숫자판 점프 | [BOJ-7785] 회사에 있는 사람 | [BOJ-11507] 카드셋트 |
 | 3주차 | stack | [BOJ-28278]스택2 | [BOJ-9012]괄호 | [BOJ-12605]단어순서 뒤집기 | [BOJ-1874] 스택 수열 | (심화)[BOJ-17298] 오큰수 |
 | 3주차 | queue | [BOJ-1021]회전하는 큐 | [BOJ-2161]카드1 | [BOJ-24511]queuestack | [BOJ-11866]요세푸스 문제 0 | (심화) [PGS] 프로세스 |
-| 4주차 | sorting | [PGS] K번째 수 | [BOJ-11650] 좌표 정렬하기 | [PGS] 문자열 내 마음대로 정렬하기 |       |       |
-| 4주차 | searching | [PGS] 피로도 | [BOJ-2798] 블랙잭 | [PGS] 소수 찾기 |       |       |
+| 4주차 | sorting | [PGS] K번째 수 | [BOJ-11650] 좌표 정렬하기 | [PGS] 문자열 내 마음대로 정렬하기 | [PGS] 가장 큰 수|       |
+| 4주차 | searching | [PGS] 피로도 | [BOJ-2798] 블랙잭 | [PGS] 소수 찾기 | [PGS] 가장 가까운 같은 글자 |       |
 | 5주차 | TwoPointers |       |       |       |       |       |
 | 5주차 | SlidingWindow |       |       |       |       |       |
 | 6주차 | RecursiveFunction |       |       |       |       |       |
