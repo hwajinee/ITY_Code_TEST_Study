@@ -49,5 +49,6 @@ public class BOJ_폴리오미노 {
         }
 
         System.out.println(result.toString());
+
     }
 }
