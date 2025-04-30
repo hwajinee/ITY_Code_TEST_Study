@@ -79,8 +79,8 @@ Week00 문제 풀이 / {Github ID}
 | 3주차 | queue | [BOJ-1021]회전하는 큐 | [BOJ-2161]카드1 | [BOJ-24511]queuestack | [BOJ-11866]요세푸스 문제 0 | (심화) [PGS] 프로세스 |
 | 4주차 | sorting | [PGS] K번째 수 | [BOJ-11650] 좌표 정렬하기 | [PGS] 문자열 내 마음대로 정렬하기 | [PGS] 가장 큰 수 | [BOJ-2141] 우체국 |
 | 4주차 | searching | [PGS] 피로도 | [BOJ-2798] 블랙잭 | [PGS] 소수 찾기 | [PGS] 가장 가까운 같은 글자 | [BOJ-13397] 구간 나누기 2 |
-| 5주차 | TwoPointers | [BOJ-4158] CD | [BOJ-1253] 좋다 |       |       |       |
-| 5주차 | SlidingWindow | [BOJ-2559] 수열 | [PGS] 연속 부분 수열 합의 개수 |       |       |       |
+| 5주차 | TwoPointers | [BOJ-4158] CD | [BOJ-1253] 좋다 | [PGS] 구명보트 |       |       |
+| 5주차 | SlidingWindow | [BOJ-2559] 수열 | [PGS] 연속 부분 수열 합의 개수 | [PGS] 할인행사 |       |       |
 | 6주차 | RecursiveFunction |       |       |       |       |       |
 | 7주차 | graph |       |       |       |       |       |
 | 8주차 | dfs |       |       |       |       |       |
