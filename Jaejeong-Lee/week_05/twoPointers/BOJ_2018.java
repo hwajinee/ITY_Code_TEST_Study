@@ -1,6 +1,6 @@
 package week_05.twoPointers;
 // 수들의 합5
-
+// 풀어야 함
 import java.util.Scanner;
 
 public class BOJ_2018 {
