@@ -81,7 +81,7 @@ Week00 문제 풀이 / {Github ID}
 | 4주차 | searching | [PGS] 피로도 | [BOJ-2798] 블랙잭 | [PGS] 소수 찾기 | [PGS] 가장 가까운 같은 글자 | (심화) [BOJ-13397] 구간 나누기 2 |
 | 5주차 | TwoPointers | [BOJ-4158] CD | (심화) [BOJ-1253] 좋다 | [PGS] 구명보트 | [BOJ-2003] 수들의 합 2 | [BOJ-3273] 두 수의 합 |
 | 5주차 | SlidingWindow | [BOJ-2559] 수열 | (심화) [PGS] 연속 부분 수열 합의 개수 | [PGS] 할인행사 | [BOJ-12891] DNA 비밀번호 | [BOJ-21921] 블로그 |
-| 6주차 | RecursiveFunction | [PGS] 피보나치 수 | [BOJ-25501] 재귀의 귀재 | [BOJ-17478] 재귀함수가 뭔가요? |       |       |
+| 6주차 | RecursiveFunction | [PGS] 피보나치 수 | [BOJ-25501] 재귀의 귀재 | [BOJ-17478] 재귀함수가 뭔가요? | [PGS] 하노이의 탑 |       |
 | 7주차 | graph |       |       |       |       |       |
 | 8주차 | dfs |       |       |       |       |       |
 | 9주차 | bfs |       |       |       |       |       |
