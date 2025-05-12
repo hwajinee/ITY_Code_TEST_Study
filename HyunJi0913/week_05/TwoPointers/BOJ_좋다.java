@@ -1,4 +1,4 @@
-package week_06.TwoPointers;
+package week_05.TwoPointers;
 import java.util.*;
 public class BOJ_좋다 {
     public static void main(String[] args) {

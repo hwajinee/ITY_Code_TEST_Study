@@ -1,4 +1,4 @@
-package week_06.TwoPointers;
+package week_05.TwoPointers;
 import java.io.*;
 import java.util.*;
 public class BOJ_CD {
