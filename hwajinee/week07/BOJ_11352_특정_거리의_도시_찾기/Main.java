@@ -1,19 +1,10 @@
-package week07.BOJ_18352_특정_거리의_도시_찾기;
+package week07.BOJ_11352_특정_거리의_도시_찾기;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.*;
 
-/*
-    bfs를 이용한다.
-    출발 노드에서 bfs로 그래프를 순회할 때, 거리도 함께 카운팅한다.
-    예를 들어, 최단거리가 2인 노드를 찾는다면 bfs 순회 중 최단거리가 3인 노드를 발견한 즉시
-    프로그램을 종료한다.
-    int count : 이동거리를 카운팅
-    int[] nodes : 현재 count값을 이동거리로 하는 노드 번호
-                  nodes는 count값이 증가했을 때, 전체 초기화하고 다시 채운다.
- */
 public class Main {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -63,7 +54,7 @@ public class Main {
             }
         }
 
-        // 오름차순 정렬 후 출력
+        // 최단거리가 K인 노드정보가 담긴 리스트를 오름차순 정렬 후 출력한다.
         if(answer.get(K).isEmpty()){
             System.out.println(-1);
         } else {
