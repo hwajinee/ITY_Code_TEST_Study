@@ -1,4 +1,4 @@
-package week07.BOJ_11352_특정_거리의_도시_찾기;
+package week07.BOJ_11352;
 
 import java.io.BufferedReader;
 import java.io.IOException;
