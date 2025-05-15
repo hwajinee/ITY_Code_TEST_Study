@@ -20,7 +20,7 @@ import java.util.*;
     ❗ 주의사항 : 메모리 초과
         -> DFS, BFS에서 발생하는 메모리 초과 문제는 주로 '불필요한 큐 저장 또는 방문 체크 누락' 때문에 생깁니다.
     ❗ 주의사항 : 시간 초과
-        -> dfs로 풀어야 함 ..! Main_DFS에 풀었움.
+        dfs로 풀어야 함 ..! ---> Main_DFS.java
 
  */
 public class Main {
