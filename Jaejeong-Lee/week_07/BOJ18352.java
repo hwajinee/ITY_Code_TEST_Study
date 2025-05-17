@@ -34,6 +34,7 @@ public class BOJ18352 {
 
         /* 해당 도시들 출력 */
         // 도시 번호들 오름차순 정렬
+        // 우선순위 큐 사용할 수도 있음.
         Collections.sort(answer);
 
         for ( Integer i : answer) {
@@ -67,6 +68,7 @@ public class BOJ18352 {
             // for문 전에 코드 넣음으로써 불필요한 연산 방지
             if (dist == k) {
                 answer.add(currCity);
+                // continue;
             }
 
             // 다음 노드 방문 예약
