@@ -83,8 +83,8 @@ Week00 문제 풀이 / {Github ID}
 | 5주차 | SlidingWindow | [BOJ-2559] 수열 | (심화) [PGS] 연속 부분 수열 합의 개수 | [PGS] 할인행사 | [BOJ-12891] DNA 비밀번호 | [BOJ-21921] 블로그 |
 | 6주차 | RecursiveFunction | [PGS] 피보나치 수 | [BOJ-25501] 재귀의 귀재 | [BOJ-17478] 재귀함수가 뭔가요? | [PGS] 하노이의 탑 | [BOJ-10870] 피보나치 수5 |
 | 7주차 | graph | [BOJ-18352] 특정 거리의 도시 찾기 | [BOJ-1325] 효율적인 해킹 | [BOJ-1707] 이분 그래프 | [BOJ-2251] 물의 양 구하기 | X |
-| 8주차 | dfs |       |       |       |       |       |
-| 9주차 | bfs |       |       |       |       |       |
+| 8주차 | dfs | [LC] number of islands |  [PGS] 응급차 최단거리 | [LC] shortest path in binary matrix |  [PGS] 미로탈출 |  [PGS] 거리두기 확인하기 |  [PGS] 보물지도
+| 9주차 | bfs | [PGS] 네트워크 | [LC] Keys and Rooms | [PGS] 가장 먼 노드 | [LC] Coin Change | [LC] Is Graph Bipartite? | [PGS] 단어변환
 | 10주차 | GreedyAlgorithm |       |       |       |       |       |
 | 11주차 | GreedyAlgorithm |       |       |       |       |       |
 | 12주차 | DynamicProgramming |       |       |       |       |       |
