@@ -5,7 +5,7 @@ import java.util.*;
 /*
     시작 노드에서 도착 노드까지 이동하는 확률의 최댓값 출력
  */
-public class Solution_fail {
+public class Solution {
     public double maxProbability(int n, int[][] edges, double[] succProb, int start_node, int end_node) {
         // 인접리스트 만들기
         List<List<Edge>> graph = new ArrayList<>();
