@@ -1,2 +1,4 @@
-package week10.BOJ_숨바꼭질;public class Maㅑㅜ {
+package week10.BOJ_숨바꼭질;
+
+public class Main {
 }
